@@ -1,0 +1,23 @@
+{
+  "name": "levenshtein.c",
+  "version": "2.0.2",
+  "description": "Levenshtein algorithm in C; Titus (2015).",
+  "keywords": [
+    "c",
+    "library",
+    "levenshtein",
+    "distance",
+    "string",
+    "algorithm"
+  ],
+  "homepage": "https://github.com/nodef/levenshtein.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/levenshtein.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/levenshtein.c.git"
+  },
+  "license": "MIT",
+  "main": "levenshtein.h"
+}
